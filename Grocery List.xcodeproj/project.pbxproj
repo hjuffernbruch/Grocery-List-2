@@ -12,6 +12,8 @@
 		82147860203F290F00AF9F2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8214785E203F290F00AF9F2F /* Main.storyboard */; };
 		82147862203F290F00AF9F2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82147861203F290F00AF9F2F /* Assets.xcassets */; };
 		82147865203F290F00AF9F2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82147863203F290F00AF9F2F /* LaunchScreen.storyboard */; };
+		8214786D203F2CB700AF9F2F /* Add Grocery ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8214786C203F2CB700AF9F2F /* Add Grocery ViewController.swift */; };
+		82F1CBD6204D982A00E4E5C0 /* VacationPlanner1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F1CBD5204D982A00E4E5C0 /* VacationPlanner1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		82147861203F290F00AF9F2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		82147864203F290F00AF9F2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82147866203F290F00AF9F2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8214786C203F2CB700AF9F2F /* Add Grocery ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Add Grocery ViewController.swift"; sourceTree = "<group>"; };
+		82F1CBD5204D982A00E4E5C0 /* VacationPlanner1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VacationPlanner1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +60,9 @@
 			children = (
 				8214785A203F290F00AF9F2F /* AppDelegate.swift */,
 				8214785C203F290F00AF9F2F /* ViewController.swift */,
+				82F1CBD5204D982A00E4E5C0 /* VacationPlanner1.swift */,
 				8214785E203F290F00AF9F2F /* Main.storyboard */,
+				8214786C203F2CB700AF9F2F /* Add Grocery ViewController.swift */,
 				82147861203F290F00AF9F2F /* Assets.xcassets */,
 				82147863203F290F00AF9F2F /* LaunchScreen.storyboard */,
 				82147866203F290F00AF9F2F /* Info.plist */,
@@ -137,7 +143,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				8214785D203F290F00AF9F2F /* ViewController.swift in Sources */,
+				8214786D203F2CB700AF9F2F /* Add Grocery ViewController.swift in Sources */,
 				8214785B203F290F00AF9F2F /* AppDelegate.swift in Sources */,
+				82F1CBD6204D982A00E4E5C0 /* VacationPlanner1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
